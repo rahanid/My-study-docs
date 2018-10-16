@@ -1,0 +1,4 @@
+ELK related learnings:
+
+Command to run in logstash bin folder post creating the logstash.conf file
+logstash -f logback.conf
